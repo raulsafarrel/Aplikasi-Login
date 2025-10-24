@@ -1,16 +1,16 @@
-## Project Owl
+# Project Owl
 
-# Apa itu Project Owl ?
+## Apa itu Project Owl ?
 
 Project Owl adalah aplikasi pelacak tidur (sleep tracker) berbasis Flutter. Aplikasi ini dirancang untuk membantu pengguna memahami hubungan antara kualitas tidur, durasi tidur, dan tingkat stres harian mereka.
 
 Pengguna dapat mencatat jam tidur, jam bangun, dan tingkat stres harian mereka. Aplikasi kemudian akan memberikan skor Kualitas Tidur yang diprediksi oleh model Machine Learning, membantu pengguna mengidentifikasi pola untuk meningkatkan produktivitas dan kesehatan mereka.
 
-# Latar Belakang
+## Latar Belakang
 
 Di era yang serba cepat, banyak orang, terutama pelajar dan pekerja, mengorbankan waktu tidur yang berdampak langsung pada produktivitas dan kesehatan mental. Seringkali, kita tidak menyadari seberapa besar pengaruh tidur satu malam terhadap kinerja kita keesokan harinya. Project Owl dibuat untuk menjembatani kesenjangan informasi tersebut, memberikan data nyata kepada pengguna tentang bagaimana tidur mereka memengaruhi kehidupan sehari-hari mereka.
 
-# Penjelasan Fitur & Alur
+## Penjelasan Fitur & Alur
 
 Aplikasi ini memiliki beberapa fitur utama yang saling terhubung:
 
@@ -32,7 +32,7 @@ Cara Menjalankan/Duplikasi Proyek
 
 Jika Anda ingin menjalankan atau menduplikasi proyek ini di mesin lokal Anda, ikuti langkah-langkah berikut:
 
-# Prasyarat:
+## Prasyarat:
 
 Pastikan Anda telah menginstal Flutter SDK (versi 3.x.x atau lebih baru).
 
