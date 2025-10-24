@@ -40,26 +40,26 @@ Memiliki editor kode seperti Visual Studio Code.
 
 Perangkat (Emulator Android, iOS Simulator, atau perangkat fisik) untuk menjalankan aplikasi.
 
-Langkah-langkah Instalasi:
+## Langkah-langkah Instalasi:
 
-Clone repositori ini ke komputer lokal Anda:
+1. Clone repositori ini ke komputer lokal Anda:
 
-git clone [https://github.com/trunxl0g1c/capstone-flutter.git](https://github.com/trunxl0g1c/capstone-flutter.git)
-
-
-Masuk ke direktori proyek:
-
-cd capstone-flutter
+    git clone [https://github.com/trunxl0g1c/capstone-flutter.git](https://github.com/trunxl0g1c/capstone-flutter.git)
 
 
-Instal semua dependensi yang diperlukan:
+2. Masuk ke direktori proyek:
 
-flutter pub get
+    cd capstone-flutter
 
 
-Jalankan aplikasi:
+3. Instal semua dependensi yang diperlukan:
 
-flutter run
+    flutter pub get
+
+
+4. Jalankan aplikasi:
+
+    flutter run
 
 
 (Catatan: Aplikasi ini memerlukan back-end API Machine Learning untuk menjalankan fitur prediksi. Untuk fungsionalitas penuh, pastikan Anda juga menjalankan server API secara lokal dan memperbarui URL endpoint di lib/data/api/api_service.dart.)
@@ -67,7 +67,7 @@ flutter run
 
 
 
-Credits & Teknologi
+# Credits & Teknologi
 
 Berikut adalah teknologi utama yang digunakan untuk membangun aplikasi Flutter ini:
 
